@@ -25,7 +25,7 @@ SECRET_KEY = 'l!&m=0ek-pfv!ajx&iv)&vwn@we5+53x3p#%j57u-3aquy)g@8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'ninetailsuperpython.pythonanywhere.com']
 
 
 # Application definition
